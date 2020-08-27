@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BODGEr the BADGEr on Narwo Development</title>
+    <link>https://narwo.dev/badger/</link>
+    <description>Recent content in BODGEr the BADGEr on Narwo Development</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
+    
+	<atom:link href="https://narwo.dev/badger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
