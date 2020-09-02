@@ -4,28 +4,14 @@
 	"title": "BODGEr the BADGEr",
 	"tags": [],
 	"description": "",
-	"content": "BODGEr the BADGEr Coming 2020-09-01\n"
+	"content": "Who are you? Hi, I’m BODGEr, as you can see I’m a BADGEr.\nOk\u0026hellip;? I like to build electronics, but sometimes I get things wrong. That’s why I’m called BODGEr\u0026hellip;it means to fix something in a crazy way!\nInstructions  Solder the 555 timer (U1) and the capacitor (C1) making sure they are orientated correctly. Solder the resistors (R1, R2, R3). Solder the LEDs (D1, D2), but do them upside down, so the light will shine through the eye holes. The marking on the LED goes towards the top. Solder the switch, there are pegs under it which fit in the holes on the PCB. Make sure you solder all 7 legs of the switch to keep it secure. Solder the battery holder, make sure it’s orientated the right way. It’s best if you put some solder on each of the outer pads first. Finally, if you want to wear it as a badge, solder the included brooch pin to the rectangle pad at the top. Again, it’s best if you add some solder to the pad first.  "
 },
 {
 	"uri": "https://narwo.dev/555/",
 	"title": "FemFemFemto",
 	"tags": [],
 	"description": "",
-	"content": "FemFemFemto Coming 2020-09-01\n"
-},
-{
-	"uri": "https://narwo.dev/badger/bodger/",
-	"title": "BODGE Version",
-	"tags": [],
-	"description": "",
-	"content": "BODGEr the BADGEr Coming 2020-09-01\n"
-},
-{
-	"uri": "https://narwo.dev/",
-	"title": "Home",
-	"tags": [],
-	"description": "",
-	"content": "Open-source Hardware and Software Coming 2020-09-01\n"
+	"content": "Component Map Instructions  Clean the PCB with isopropyl alcohol. (optional) Once dry, stick kapton tape over the gold outline, clock logo and FemFemFemto text. (optional) Put a tiny amount of solder paste on each of the pads for the LEDs, resistors and capacitor. Note: the 555 timer doesn\u0026rsquo;t require solder as it\u0026rsquo;s on the chip already. Place all the components onto their pads, making sure the LEDs, 555 timer and capacitor are orientated correctly. With a hot air gun on a slighly higher temperature than you normally use, but a very low air pressure, slowly bring it towards the PCB to melt the solder paste. Keep it a bit longer than you normaly would, to ensure the solder for the 555 timer has melted. 30 seconds or more is normal and ok. Leave to cool, then gently touch the 555 timer to ensure it has soldered\u0026hellip;do this very very gently!! Stick kapton tape over the whole of the components side, then turn over the PCB. Get the battery holders, and press the springy contacts in a few times to make it easier to insert the battery later. It\u0026rsquo;s best to solder these with an iron, so add some solder to the 4 outer pads for the battery holder, but not the inner 2! Making sure the battery holders are turned the right way, put them on the PCB and then hold the soldering iron to melt the solder you added earlier. Add more solder if needed. Hopefully all has gone well, but it might take a few attempts to get this done. It\u0026rsquo;s not an easy kit to build, but so rewarding when it\u0026rsquo;s done. Add your batteries, and watch it blink!  "
 },
 {
 	"uri": "https://narwo.dev/categories/",
@@ -40,6 +26,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Contributors "
+},
+{
+	"uri": "https://narwo.dev/",
+	"title": "Home",
+	"tags": [],
+	"description": "",
+	"content": "Open-source Hardware and Software "
 },
 {
 	"uri": "https://narwo.dev/tags/",

@@ -35,10 +35,6 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
     box-shadow: none;
 }
 
-h2, h3, h4, h5 {
-    color: var(--MAIN-TITLES-TEXT-color) !important;
-}
-
 a {
     color: var(--MAIN-LINK-color);
 }
@@ -102,3 +98,6 @@ a:hover {
     border-color: var(--MENU-SECTION-HR-color);
 }
 
+h3 {
+    color: #3382A0;
+}

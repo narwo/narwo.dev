@@ -4,21 +4,10 @@
   
   <url>
     <loc>https://narwo.dev/badger/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://narwo.dev/555/</loc>
-  </url>
-  
-  <url>
-    <loc>https://narwo.dev/badger/bodger/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://narwo.dev/</loc>
-    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
   </url>
   
   <url>
@@ -27,6 +16,10 @@
   
   <url>
     <loc>https://narwo.dev/credits/</loc>
+  </url>
+  
+  <url>
+    <loc>https://narwo.dev/</loc>
   </url>
   
   <url>
